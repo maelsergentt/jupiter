@@ -184,6 +184,10 @@ body {
     .fond{
       margin-left:22vw ;
     }
+      
+     .titre{
+      z-index: 6;
+    }
   }
 
   .sous{
