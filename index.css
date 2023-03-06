@@ -334,6 +334,9 @@ body {
     font-size: 0px;
   }
 
+   a{
+    z-index: 6;
+  }
  
   .expli{
     display: flex;
